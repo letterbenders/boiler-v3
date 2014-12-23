@@ -1,6 +1,8 @@
 boiler-v2
 =========
 
-Setup
-1) Clone repo
-2) Run npm intall to get dependicies
+<h2>Setup</h2>
+<p>1) Clone repo</p>
+<p>2) Run npm intall to get dependicies</p>
+<p>3) Work in src - use cmd "grunt watch"</p>
+<p>4) When ready to create a build use cmd "grunt copy"</p>
